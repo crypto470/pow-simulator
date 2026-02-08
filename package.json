@@ -1,0 +1,11 @@
+{
+  "name": "pow-simulator",
+  "version": "1.0.0",
+  "description": "Simple Proof-of-Work blockchain simulator in pure Node.js",
+  "main": "pow_simulator.js",
+  "scripts": {
+    "start": "node pow_simulator.js"
+  },
+  "keywords": ["blockchain", "pow", "mining", "difficulty", "nodejs"],
+  "license": "MIT"
+}
